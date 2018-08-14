@@ -13,3 +13,8 @@ Sheet 2 contains statistics comparison deriving why the 3 techniques were used.
 
 Analysis.mpeg4:
 Video informing the performed exploratory data analysis and findings of experiments with different classifiers.
+
+
+Language Used: Python.
+Libraries Used: Scikit-learn, Pandas.
+IDE Used: Pycharm.
